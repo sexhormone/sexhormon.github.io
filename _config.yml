@@ -32,6 +32,8 @@ theme: minima
 plugins:
  # - jekyll-polyglot
   - jekyll-feed
+  - jekyll-admin
+  - jekyll-sitemap
 
 #languages: ['ja', 'ko', 'en', 'cn']
 #default_lang: 'ko'
